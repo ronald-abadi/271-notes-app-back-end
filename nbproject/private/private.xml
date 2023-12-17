@@ -13,6 +13,7 @@
             <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/validator/users/schema.js</file>
             <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/exceptions/ClientError.js</file>
             <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/exceptions/AuthenticationError.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/.prod.env</file>
             <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/migrations/1702540113693_create-table-users.js</file>
             <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/services/postgres/AuthenticationsService.js</file>
             <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/validator/users/index.js</file>
