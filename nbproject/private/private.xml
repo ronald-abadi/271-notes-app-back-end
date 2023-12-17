@@ -3,11 +3,36 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/validator/users/index.js</file>
-            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/validator/users/schema.js</file>
             <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/api/users/routes.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/api/authentications/handler.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/api/authentications/routes.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/validator/authentications/schema.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/exceptions/InvariantError.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/validator/notes/schema.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/utils/index.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/validator/users/schema.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/exceptions/ClientError.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/exceptions/AuthenticationError.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/migrations/1702540113693_create-table-users.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/services/postgres/AuthenticationsService.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/validator/users/index.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/.env</file>
             <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/api/users/handler.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/api/authentications/index.js</file>
             <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/services/postgres/UsersService.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/services/inMemory/NotesService.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/validator/notes/index.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/api/notes/handler.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/exceptions/NotFoundError.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/tokenize/TokenManager.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/validator/authentications/index.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/server.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/api/notes/index.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/api/users/index.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/migrations/1702706958355_create-table-authentications.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/migrations/1702110448082_create-table-notes.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/services/postgres/NotesService.js</file>
+            <file>file:/home/rabadi/Dicoding/271/notes-app-back-end/src/api/notes/routes.js</file>
         </group>
     </open-files>
 </project-private>
